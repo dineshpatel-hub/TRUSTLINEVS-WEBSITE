@@ -1,0 +1,22 @@
+{
+  "name": "trustline-verification-services",
+  "version": "1.0.0",
+  "description": "Trustline Verification Services - Corporate Risk & Evidential Investigation Multipage Website",
+  "scripts": {
+    "dev": "npx serve -p 3000 .",
+    "start": "npx serve -p 3000 ."
+  },
+  "keywords": [
+    "trustline",
+    "verification",
+    "investigation",
+    "insurance-claims",
+    "bgv",
+    "gujarat"
+  ],
+  "author": "Trustline Verification Services",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

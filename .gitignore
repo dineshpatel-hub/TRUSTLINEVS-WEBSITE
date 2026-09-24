@@ -1,0 +1,17 @@
+node_modules/
+.system_generated/
+scratch/
+raw_screens/
+*.log
+.DS_Store
+Thumbs.db
+test_home.html
+extract_info.js
+download_images.js
+analyze_pages.js
+check_ids.js
+inspect_links.js
+map_images.js
+build_multipage.js
+create_auxiliary_pages.js
+url_mapping.json

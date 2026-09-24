@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect x="0" y="0" width="48" height="48" rx="6" fill="#0f1f33" />
+  <!-- T letter mark -->
+  <path d="M12 15 H36 M24 15 V35" stroke="#FFFFFF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- V gold chevron -->
+  <path d="M16 25 L24 35 L32 25" stroke="#c59b27" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>
